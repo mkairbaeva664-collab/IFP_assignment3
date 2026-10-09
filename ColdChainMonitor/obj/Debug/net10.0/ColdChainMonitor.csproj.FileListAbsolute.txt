@@ -1,0 +1,15 @@
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.exe
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.deps.json
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.runtimeconfig.json
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.dll
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\ColdChainMonitor.pdb
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.AssemblyInfoInputs.cache
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.AssemblyInfo.cs
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.csproj.CoreCompileInputs.cache
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.dll
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\refint\ColdChainMonitor.dll
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.pdb
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ColdChainMonitor.genruntimeconfig.cache
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\obj\Debug\net10.0\ref\ColdChainMonitor.dll
+C:\Users\kairb\OneDrive\Рабочий стол\Уроки\IFP_C#\IFP_assignment3\ColdChainMonitor\bin\Debug\net10.0\readings.txt

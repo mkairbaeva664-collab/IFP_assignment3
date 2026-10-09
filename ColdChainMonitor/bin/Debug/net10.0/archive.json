@@ -1,0 +1,83 @@
+{
+  "createdAtUtc": "2026-10-09T12:53:32.7657648+00:00",
+  "readings": [
+    {
+      "sensorId": "S1",
+      "timestamp": "2026-09-22T08:10:00+00:00",
+      "storageClass": "Cold",
+      "temperature": 5.2
+    },
+    {
+      "sensorId": "S2",
+      "timestamp": "2026-09-22T08:01:00+00:00",
+      "storageClass": "Frozen",
+      "temperature": -18.0
+    },
+    {
+      "sensorId": "S1",
+      "timestamp": "2026-09-22T08:00:00+00:00",
+      "storageClass": "Cold",
+      "temperature": 4.0
+    },
+    {
+      "sensorId": "S1",
+      "timestamp": "2026-09-22T08:05:00+00:00",
+      "storageClass": "Cold",
+      "temperature": 8.7
+    },
+    {
+      "sensorId": "S2",
+      "timestamp": "2026-09-22T08:06:00+00:00",
+      "storageClass": "Frozen",
+      "temperature": -12.0
+    },
+    {
+      "sensorId": "S1",
+      "timestamp": "2026-09-22T08:15:00+00:00",
+      "storageClass": "Cold",
+      "temperature": 8.0
+    }
+  ],
+  "errors": [
+    {
+      "lineNumber": 7,
+      "rawLine": "S3|bad-date|Cold|3.5",
+      "message": "Invalid timestamp format or offset."
+    },
+    {
+      "lineNumber": 8,
+      "rawLine": "S2|2026-09-22T08:11:00Z|99|-17.0",
+      "message": "Invalid StorageClass: \u002799\u0027."
+    },
+    {
+      "lineNumber": 9,
+      "rawLine": "S1|2026-09-22T08:20:00Z|Cold|5,5",
+      "message": "Invalid temperature format: \u00275,5\u0027."
+    },
+    {
+      "lineNumber": 10,
+      "rawLine": "S1|2026-09-22T08:25:00Z|Frozen|-17.0",
+      "message": "StorageClass mismatch for sensor \u0027S1\u0027. Expected Cold, got Frozen."
+    }
+  ],
+  "alerts": [
+    {
+      "sensorId": "S1",
+      "timestamp": "2026-09-22T08:05:00+00:00",
+      "temperature": 8.7,
+      "reasons": [
+        "Outside range",
+        "Abrupt change"
+      ]
+    },
+    {
+      "sensorId": "S2",
+      "timestamp": "2026-09-22T08:06:00+00:00",
+      "temperature": -12.0,
+      "reasons": [
+        "Outside range",
+        "Abrupt change"
+      ]
+    }
+  ]
+}
